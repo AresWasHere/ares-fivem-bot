@@ -1,6 +1,6 @@
 # Botumuzun İçeriği Nedir?
 
-• Oto Hex idli isim güncelleme sistemi.
+• Oyuncu isim değiştirme sistemi.
 
 • Bagaj log sistemi.
 
