@@ -27,6 +27,6 @@ Yukarıda bulunan tüm sistemler sorunsuz çalışmaktadır. Evde, işde, okulda
 
 # Nereleri Düzenlemeliyim?
 
-ayarlar.json ve komutlar klasöründe ki tüm komutları ince detayına kadar düzenlemelisiniz. İyi kullanımlar.
+ayarlar.json ve komutlar klasöründe ki tüm komutları ince detayına kadar düzenlemelisiniz. Mysql bilgilerini doğru girdiğinizden emin olun. İyi kullanımlar.
 
 
