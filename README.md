@@ -29,4 +29,12 @@ Yukarıda bulunan tüm sistemler sorunsuz çalışmaktadır. Evde, işde, okulda
 
 ayarlar.json ve komutlar klasöründe ki tüm komutları ince detayına kadar düzenlemelisiniz. Mysql bilgilerini doğru girdiğinizden emin olun. İyi kullanımlar.
 
+# İletişim ;
+
+[İnstagram](https://instagram.com/aresowner)
+
+[Discord Sunucum](https://discord.gg/eventus)
+
+[Github](https://github.com/AresWasHere)
+
 
